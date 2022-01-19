@@ -1,0 +1,61 @@
+.pozadina 
+{
+    background-image:url('images/22.jpg');
+}
+
+table 
+{
+    border: #CCC solid 1px;
+    background-color:#6d5e5e;
+    color:white;
+}
+
+table tr {
+	border: #CCC solid 1px;
+}
+table td {
+	border: #CCC solid 1px;
+        padding: 5px;
+}
+table th {
+	border: #CCC solid 1px;
+        
+}
+
+#prikazTabele
+{
+    width: 600px;
+    overflow: auto;
+    float: left;
+}
+
+.detalj
+{
+    float: left;
+    margin: 20px;
+    padding: 10px;
+    width: 500px;
+    max-height: 500px;
+    overflow: auto;
+}
+
+#pokaziT
+{
+    
+    float:left;
+    list-style-type:none;
+    padding: 2px;
+}
+#pokaziT li
+{
+    float:left;
+    padding:15px;
+    width: 60px;
+    text-align: center;
+    margin:5px;
+    display: inline;
+    border: #CCC solid 1px;
+    border-radius:8px;
+    background-color:#6d5e5e;
+    color:white;
+}

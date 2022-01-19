@@ -1,0 +1,69 @@
+
+body, html { overflow-x: hidden; }
+body
+{
+    background-color:#a10d05;
+    width:90%;
+    margin:auto;
+    font-size: 18px;
+    font-weight: 300;		
+    padding: 30px 15px;
+    overflow-x: hidden;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.pozadina
+{
+    /*background-repeat:no-repeat;
+    background-position:center center;
+    background-attachment: fixed;*/
+    min-height: 500px;
+    background-size:cover;
+}
+#meni
+{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#6d5e5e;
+}
+#lista
+{
+    float:left;
+    border-right: 1px solid #CCC;
+    width:200px;
+}
+#lista a
+{
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a:hover
+{
+    background-color:#9d6966;
+}
+.naslov
+{
+    text-align: center;
+}
+
+#futer {
+    
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+#futer
+{
+    background-color:#6d5e5e;
+    height:75px;
+    border:1px solid #CCC;
+    border-radius:30px;
+    color:white;
+}

@@ -1,0 +1,72 @@
+
+<html>
+    <head>
+        <title>Ana Radovanovic</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="stil.css" rel="stylesheet" type="text/css"/>
+        <link href="stilUloge.css" rel="stylesheet" type="text/css"/>
+        <link rel="icon" href="images/logo2.gif">
+        
+        <script src="functions.js"></script>
+    </head>
+    <body onload="ucitajXML();prikazi()">
+       
+        <div class="pozadina">
+          
+        </div>
+        <ul id="meni">
+
+            <li id="lista">
+                <a href="index.html" >
+                   <span>Pocetna </span>
+                </a>
+            </li>
+
+            <li id="lista">
+                <a href="galerija.html">
+                    <span> Slike </span>
+                </a>
+            </li>
+
+            <li id="lista">
+                <a href="uloge.html">
+                   <span >Uloge</span>
+                </a>
+            </li>
+
+            
+
+       </ul> 
+        
+        <br><br><br>
+        <script src="jquery-1.12.3.min.js" type="text/javascript"></script>
+        <script>
+        $(document).ready(function(){
+            $("#hide").click(function(){
+                $("#prikazTabele").hide();
+                $("#prikaz").hide();
+            });
+            $("#show").click(function(){
+                $("#prikazTabele").show();
+            });
+        });
+        </script>
+
+    <ul id="pokaziT">
+        <li id="show">Prikazi</li>
+        <li id="hide">Sakrij</li>
+        
+    </ul>
+<br><br><br><br><br><br>
+        <div id="prikazTabele" style="display: none;">
+            <table id="tabela"> </table>
+        </div>
+        
+        <div class="detalj">
+      
+            <div id="prikaz"></div>
+        </div>
+
+    </body>
+</html>

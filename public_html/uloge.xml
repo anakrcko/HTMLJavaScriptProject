@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLUMCI>
+    <GLUMAC>
+        <IME>Nina Dobrev</IME>
+        <ULOGE>
+            <ULOGA>Elena Gilbert</ULOGA>
+            <ULOGA>Katherine Pierce (Katerina Petrova)</ULOGA>
+            <ULOGA>Amara</ULOGA>
+        </ULOGE>
+        <OPIS>
+            <slika>nina.jpg</slika>
+            <ime>Nikolina Konstantinova Dobreva</ime>
+            <datum>January 9, 1989</datum>
+            <mesto>Sofia Bulgaria</mesto>
+            <zivi>Toronto, Canada </zivi>
+        </OPIS>
+    </GLUMAC>
+    <GLUMAC>
+        <IME>Paul Wesley</IME>
+        <ULOGE>
+            <ULOGA>Stefan Salvatore </ULOGA>
+            <ULOGA>Tom Avery</ULOGA>
+            <ULOGA>Silas</ULOGA>
+        </ULOGE>
+        <OPIS>
+            <slika>paul.jpg</slika>
+            <ime>Paweł Tomasz Wasilewski</ime>
+            <datum>July 23, 1982</datum>
+            <mesto>New Brunswick, New Jersey, U.S.</mesto>
+            <zivi>New Brunswick, New Jersey, U.S. </zivi>
+        </OPIS>
+    </GLUMAC>
+    <GLUMAC>
+        <IME>Ian Somerhalder</IME>
+        <ULOGE>
+            <ULOGA>Damon Salvatore</ULOGA>
+        </ULOGE>
+        <OPIS>
+            <slika>ian.jpg</slika>
+            <ime>Ian Joseph Somerhalder</ime>
+            <datum>December 8, 1978</datum>
+            <mesto>Covington, Louisiana, U.S.</mesto>
+            <zivi>Covington, Louisiana, U.S.</zivi>
+        </OPIS>
+    </GLUMAC>
+    <GLUMAC>
+        <IME>Steven R. McQueen</IME>
+        <ULOGE>
+            <ULOGA>Jeremy Gilbert</ULOGA>
+        </ULOGE>
+        <OPIS>
+            
+            <slika>steven.jpg</slika>
+            <ime>Steven Chadwick McQueen</ime>
+            <datum>July 13, 1988</datum>
+            <mesto>Los Angeles, California, U.S.</mesto>
+            <zivi>Chicago, Illinois, U.S.</zivi>
+        </OPIS>
+    </GLUMAC>
+    <GLUMAC>
+        <IME>Kat Graham</IME>
+        <ULOGE>
+            <ULOGA>Bonnie Bennett</ULOGA>
+        </ULOGE>
+        <OPIS>
+            <slika>kat.png</slika>
+            <ime>Katerina Alexandre Hartford Graham</ime>
+            <datum>September 5, 1989</datum>
+            <mesto>Geneva, Switzerland</mesto>
+            <zivi>  </zivi>
+        </OPIS>
+    </GLUMAC>
+    <GLUMAC>
+        <IME>Candice King</IME>
+        <ULOGE>
+            <ULOGA>Caroline Forbes</ULOGA>
+        </ULOGE>
+        <OPIS>
+            <slika>kendis.jpg</slika>
+            <ime>Candice Rene Accola</ime>
+            <datum>May 13, 1987 </datum>
+            <mesto>Houston, Texas, U.S.</mesto>
+            <zivi>  </zivi>
+        </OPIS>
+    </GLUMAC>
+    <GLUMAC>
+        <IME>Zach Roering</IME>
+        <ULOGE>
+            <ULOGA>Matt Donovan</ULOGA>
+        </ULOGE>
+        <OPIS>
+            <slika>zak.jpg</slika>
+            <ime>Zachary George Roerig</ime>
+            <datum>February 22, 1985</datum>
+            <mesto>Montpelier, Ohio, U.S.</mesto>
+            <zivi>Toronto, Canada </zivi>
+        </OPIS>
+    </GLUMAC>
+    <GLUMAC>
+        <IME>Michael Trevino</IME>
+        <ULOGE>
+            <ULOGA>Tyler Lockwood</ULOGA>
+        </ULOGE>
+        <OPIS>
+           
+            <slika>mikal.jpg</slika>
+            <ime>Michael Anthony Trevino</ime>
+            <datum>January 25, 1985</datum>
+            <mesto>Montebello, California, U.S.</mesto>
+            <zivi> Valencia, California</zivi>
+        </OPIS>
+    </GLUMAC>
+    <GLUMAC>
+        <IME>Matthew Davis</IME>
+        <ULOGE>
+            <ULOGA>Alaric Saltzman</ULOGA>
+        </ULOGE>
+        <OPIS>
+            <slika>alarik.jpg</slika>
+            <ime>Matthew W. Davis</ime>
+            <datum>May 8, 1978</datum>
+            <mesto>Salt Lake City, Utah, U.S.</mesto>
+            <zivi> </zivi>
+        </OPIS>
+    </GLUMAC>
+    <GLUMAC>
+        <IME>Susan Walters</IME>
+        <ULOGE>
+            <ULOGA>Carol Lockwood</ULOGA>
+        </ULOGE>
+        <OPIS>
+            <slika>susan.jpg</slika>
+            
+            <ime>Susan Walters</ime>
+            <datum>September 28, 1963 </datum>
+            <mesto>Atlanta, Georgia, U.S</mesto>
+            <zivi>Atlanta, Georgia, U.S </zivi>
+        </OPIS>
+    </GLUMAC>
+    <GLUMAC>
+        <IME>Marguerite MacIntyre</IME>
+        <ULOGE>
+            <ULOGA>Sheriff Liz Forbes</ULOGA>
+        </ULOGE>
+        <OPIS>
+            <slika>liz.jpg</slika>
+            <ime>Marguerite MacIntyre</ime>
+            <datum>May 11, 1965</datum>
+            <mesto>Detroit, Michigan, U.S.</mesto>
+            <zivi>  </zivi>
+        </OPIS>
+    </GLUMAC>
+    <GLUMAC>
+        <IME>Michael Malarkey</IME>
+        <ULOGE>
+            <ULOGA>Lorenzo "Enzo" St. John </ULOGA>
+        </ULOGE>
+        <OPIS>
+            <slika>enzo.jpg</slika>
+            <ime>Michael Malarkey</ime>
+            <datum>June 21, 1983</datum>
+            <mesto>Yellow Springs, Ohio</mesto>
+            <zivi> </zivi>
+        </OPIS>
+    </GLUMAC>
+    <GLUMAC>
+        <IME>Joseph Morgan</IME>
+        <ULOGE>
+            <ULOGA>Klaus Mikaelson</ULOGA>
+        </ULOGE>
+        <OPIS>
+            
+            <slika>klaus.jpg</slika>
+            <ime>Joseph Martin</ime>
+            <datum>16 May 1981</datum>
+            <mesto>London, England</mesto>
+            <zivi> Swansea, UK </zivi>
+        </OPIS>
+    </GLUMAC>
+    <GLUMAC>
+        <IME>Daniel Gillies</IME>
+        <ULOGE>
+            <ULOGA>Elijah Mikaelson</ULOGA>
+        </ULOGE>
+        <OPIS>
+             
+            <slika>daniel.jpg</slika>
+            <ime>Daniel Gillies</ime>
+            <datum>March 14, 1976</datum>
+            <mesto>Winnipeg, Manitoba, Canada</mesto>
+            <zivi> Los Angeles, USA</zivi>
+        </OPIS>
+    </GLUMAC>
+    <GLUMAC>
+        <IME>Claire Holt</IME>
+        <ULOGE>
+            <ULOGA>Rebekah Mikaelson</ULOGA>
+        </ULOGE>
+        <OPIS>
+            <slika>kler.jpg</slika>
+            
+            <ime>Claire Rhiannon Holt</ime>
+            <datum>11 June 1988</datum>
+            <mesto>Brisbane, Queensland, Australia</mesto>
+            <zivi> </zivi>
+        </OPIS>
+    </GLUMAC>
+</GLUMCI>
